@@ -1,0 +1,17 @@
+public static Map<String,Integer> processData(ArrayList<String> array) {
+       
+         */Map<String,Integer> retVal = new Map<String,Integer>();
+         
+         for(int i=0;i<array.size();i++){
+             if(retVal.Contains(array.get(i).get(1)){
+             if(retVal.getValue()<array.get(i).get(3)){
+             retVal.put(array.get(i).get(1),array.get(i).get(3))
+            }
+            }
+             else
+             retVal.put(array.get(i).get(1),array.get(i).get(3));
+             
+         }
+        Map<String,Integer> retVal = new Map<String,Integer>();
+       return retVal;
+    }
